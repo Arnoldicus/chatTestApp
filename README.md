@@ -20,13 +20,13 @@ npm install --global expo-cli
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Arnoldicus/chatTestApp.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd chatTestApp
 ```
 
 Install dependencies
